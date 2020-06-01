@@ -1,5 +1,4 @@
 exports.FirebaseConfig={
-    apiKey: "AIzaSyBD_PcqiIF4jWG5dslLR-6UeZO_pnI3uEM",
     authDomain: "alexaslidepresentation.firebaseapp.com",
     databaseURL: "https://alexaslidepresentation.firebaseio.com",
     projectId: "alexaslidepresentation",
